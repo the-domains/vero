@@ -1,0 +1,14 @@
+layout_spectrum: 0.1889907
+typography_spectrum: 0.8890446
+color:
+  saturation: 0.4576584
+  lightness: 0.2893049
+  brandStrength: 0.2710585
+  rhythmicContrast: 0.4704417
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+name: Vero
